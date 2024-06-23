@@ -11,7 +11,9 @@ OpenCV
 NumPy
 
 ## Installation
-1. Clone the repository:
+1. Install Python: 3.9.11
+
+2. Clone the repository:
     git clone https://github.com/yourusername/nematode-particle-tracking.git
 
 2. Navigate to the project directory:
